@@ -1,6 +1,7 @@
  Dice Game
-This is random dice game designed for fun, you need to refresh the page every time you need random results
+This is random dice game designed for fun, you need to refresh the page every time you need random results.
 
+And Can Be Played Live <a href="https://cybernobie.github.io/Dice_Game/" title="Random Dice Game">HERE</a>
 
 ![image](https://user-images.githubusercontent.com/59702741/151490801-7df9ae38-1644-48d8-b9c7-662c68b05655.png)
 
